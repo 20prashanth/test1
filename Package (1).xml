@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+       <!-- <members>*</members>--> 
+        <members>Account_Shipping_as_Billing</members>
+        <members>LeadEmailUpdateInAccount</members>
+        <members>Account_Customer_Status</members>
+        <members>Contact_creation_from_account</members>
+        <members>Updating_OMS_Short_Name</members>
+        <members>Create_Account_when_Contact_create_or_update</members>
+        <members>Update_case_data</members>
+        <members>Create_quote_at_Quote_Stage</members>
+        <members>Customer_Denies</members>
+        <members>Inventory_Confirmation_from_Vendor</members>
+        <members>Opportunity stage to quote if not special order</members>
+        <members>Is_Inventory_Available_Updating_stage</members>
+        <members>Approval_auto_submission</members>
+        <members>Opportunity_Create_Task_and_Send_Email</members>
+        <members>Opportunity_is_commit_order_send_Email</members>
+        <members>Opportunity_Task_Creation_for_Pricing_and_Product_Team</members>
+        <members>Opportunity_to_Order</members>
+        <members>Opportunity_to_Quote</members>
+        <members>pricing_product_checkbox</members>
+        <members>Special_Order_Creation</members>
+        <members>Update_Stage_Opportunity_Closed_Won_Lost</members>
+        <members>Calculate_OPPlineItem_TotalPrice_With_Tax</members>
+        <members>Flow_for_Available_Inventory_Check</members>
+        <members>Opportunity_Products_Checking_in_Special_Order</members>
+        <members>Update_Total_Price_for_Special_Order</members>
+        <members>Customer_Response_OR_Loss_Reason_From_Quote</members>
+        <members>Loss_Reason_In_Opportunity_From_Quote</members>
+        <members>Customer_Response_From_Quote</members>
+        <members>Checked_the_Review_Checkbox_After_Completion_of_Tasks_In_Opportunity</members>
+        <members>Opportunity_stage_to_Awaiting_for_Inventory </members>
+        <members>Update_Opportunity_After_Task_Completion</members>
+        <name>Flow</name>
+    </types>
+    <version>44.0</version>
+</Package>
